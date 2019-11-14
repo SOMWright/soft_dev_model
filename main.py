@@ -6,6 +6,9 @@ class column_averages():
 		pass
 
 	def read_csv(self, filename):
+		"""
+		This method...
+		"""
 		pass
 
 	def column_averages():
